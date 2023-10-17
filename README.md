@@ -1,7 +1,7 @@
 ![MasterHead](https://newrelic.com/sites/default/files/2021-04/good-programmer-banner-final.jpg)
 
 <h1 align="center">Hi 👋, I'm Christos Foukanelis</h1>
-<h3 align="center">A postgraduate AI science student from Greece</h3>
+<h3 align="center">A postgraduate student in AI from Greece</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fouk21&label=Profile%20views&color=0e75b6&style=flat" alt="fouk21" /> </p>
 
